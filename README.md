@@ -200,7 +200,7 @@ Run every 25 minutes:
 ```python
 import requests, json
 
-last_ip_file = "/home/YOURUSER/.ipgrabber/last_ip.txt"
+last_ip_file = "/home/YOURUSER/.ipgrabber/last_ip.txt" # Replace 'YOURUSER' with your actual username
 
 def get_ip():
     try:
@@ -225,7 +225,7 @@ def save_current_ip(ip):
         f.write(ip)
 
 def main():
-    webhook_url = "http://your.webhook.url"  # Replace
+    webhook_url = "http://your.webhook.url"  # Replace with your webhook url
     current_ip = get_ip()
     if current_ip and current_ip != get_last_ip():
         send_notification(current_ip, webhook_url)
