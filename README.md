@@ -264,9 +264,9 @@ Computer Configuration > Policies > Administrative Templates > System > Removabl
 # 🙏Special Thanks
 #### Huge thanks to the amazing content creators who made this possible:
 
-[TCM Security Academy](https://academy.tcm-sec.com/) AKA [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) also a youtube channel
-[John Hammond](https://www.youtube.com/@_JohnHammond)
-[Hack The Box Academy](https://academy.hackthebox.com/)
+[TCM Security Academy](https://academy.tcm-sec.com/) AKA [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) also a youtube channel,
+[John Hammond](https://www.youtube.com/@_JohnHammond),
+[Hack The Box Academy](https://academy.hackthebox.com/),
 [TryHackMe](https://tryhackme.com/)
 
 **This is my first post—I hope it was clear and helpful. Thanks for reading! ✌️**
